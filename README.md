@@ -1,1 +1,0 @@
-# VS-code-scripty

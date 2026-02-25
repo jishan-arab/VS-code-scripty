@@ -1,9 +1,11 @@
 #include <iostream>
+using namespace std;
 
 int main (){
-    using namespace std;
+    
 
-    cout << "o";
+    
 
     return 0;
+
 }
